@@ -1,5 +1,5 @@
 # AAU3---Material
-# [![AAU3]]
+# [![AAU3]()]
 AAU3 development at AAU 2020
 Press the image below to see it in action or follow the link:
 # [Edge balance link](https://drive.google.com/file/d/1b1gcq296UOMKwm5ZHcoxtRnvcHGgj61f/view)
